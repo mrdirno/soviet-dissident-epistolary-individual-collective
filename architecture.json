@@ -1,0 +1,77 @@
+{
+  "book_id": "soviet-dissident-epistolary-individual-collective",
+  "title": "The Grammar of Paranoia",
+  "tagline": "In a state that demands silence, a dissident mathematician receives contraband paper and must decide if his private thoughts are a revolutionary act or a trap.",
+  "target_words": 81268,
+  "actual_words": 81268,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Silence",
+    "The Materiality of Dissent",
+    "Mathematics as a Private Language",
+    "The Architecture of Paranoia"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "On Contraband Paper",
+      "words": 6772
+    },
+    {
+      "ch": 2,
+      "title": "The Silence of the Stacks",
+      "words": 6772
+    },
+    {
+      "ch": 3,
+      "title": "The Grammar of Paranoia",
+      "words": 6772
+    },
+    {
+      "ch": 4,
+      "title": "A Humming, Ozone Stillness",
+      "words": 6772
+    },
+    {
+      "ch": 5,
+      "title": "To Vet a Ghost",
+      "words": 6772
+    },
+    {
+      "ch": 6,
+      "title": "The Composition of Betrayal",
+      "words": 6772
+    },
+    {
+      "ch": 7,
+      "title": "The Hollow, Cracked Bell",
+      "words": 6772
+    },
+    {
+      "ch": 8,
+      "title": "The Center of the Siren",
+      "words": 6772
+    },
+    {
+      "ch": 9,
+      "title": "An Architectural Exhalation",
+      "words": 6772
+    },
+    {
+      "ch": 10,
+      "title": "Metallic, Thin Silence",
+      "words": 6772
+    },
+    {
+      "ch": 11,
+      "title": "A Porous, Civilian Quiet",
+      "words": 6772
+    },
+    {
+      "ch": 12,
+      "title": "A Modest Harvest of Paper",
+      "words": 6772
+    }
+  ]
+}
